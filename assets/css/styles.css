@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 100vh;
+    height: 100%;
     z-index: 1;
 }
 
@@ -93,9 +93,20 @@ p {
 }
 
 footer .container {
-border: none;
+border-top: none;
 }
 
-.socials {
-    border-top: none;
+.social-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.social-list img {
+    margin-left: 25px;
+    justify-content: center;
+    align-items: center;
+    width: 52px;
+    height: 52px;
 }
