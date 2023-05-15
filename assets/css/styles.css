@@ -136,8 +136,6 @@ footer h2 {
 @media (max-width: 1024px) {
     body {
         margin: 150px 0;
-        max-height: 900px;
-        height: 100vh;
     }
 
     .container {
@@ -169,7 +167,6 @@ footer h2 {
 @media (max-width: 912px) and (max-height: 1368px) {
     body {
         margin: 250px 0;
-        height: 100vh;
     }
 
     .container {
@@ -229,8 +226,7 @@ footer h2 {
 
 @media (max-width: 425px) {
     body {
-        margin: 220px 0;
-        
+        margin: 220px 0; 
     }
 
     .container {
@@ -260,7 +256,6 @@ footer h2 {
 @media (max-width: 375px) {
     body {
         margin: 100px 0;
-        max-height: 1100px;
     }
 
     .container {
