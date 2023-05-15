@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 100vh;
+    height: 100%;
     z-index: 1;
 }
 
@@ -114,6 +114,7 @@ border-top: none;
     body{
         margin: 150px 0;
         max-height: 900px;
+        height: 100vh;
     }   
     
     .container {
