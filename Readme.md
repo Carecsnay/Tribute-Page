@@ -13,8 +13,8 @@ Você pode visualizar o deploy do projeto através desse link:
 <br>🟢[Vercel](https://tribute-page-beryl.vercel.app/) 
 
 <p align="center">
-  <h3 align="center">Prévia Real do Projeto</h3>
-  <img alt="Design do Projeto" src=".github/Preview.png" width="100%">
+  <h3 align="center">Previa</h3>
+  <img alt="Design do Projeto" src=".github/Web.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
