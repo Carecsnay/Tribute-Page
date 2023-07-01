@@ -14,7 +14,11 @@ Você pode visualizar o deploy do projeto através desse link:
 
 <p align="center">
   <h3 align="center">Previa</h3>
-  <img alt="Design do Projeto" src=".github/Web.gif" width="100%">
+  
+
+https://github.com/Carecsnay/Tribute-Page/assets/53373326/f22121e8-b1ab-4e1b-9a93-c9bf5b5084ce
+
+
 </p>
 
 ## 🚀 Tecnologias
