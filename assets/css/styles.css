@@ -91,6 +91,7 @@ iframe{
     font-weight: bolder;
     color: #000000;
     padding: 2px;
+    border: 1px solid transparent;
 
 }
 
@@ -119,11 +120,24 @@ footer h2 {
 }
 
 .social-list img {
-    margin-left: 25px;
+    padding: 3px;
+    margin: 3px;
     justify-content: center;
     align-items: center;
     width: 32px;
     height: 32px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    border: 3px solid transparent;
+}
+
+.social-list img:hover {
+    cursor: pointer;
+    padding: 3px;
+    margin: 3px;
+    border: 3px solid #f79000;
+    background-color: #ffac39;
+    transition: ease-in .1s;
 }
 
 @media (max-width: 1440px) {
